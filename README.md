@@ -3,6 +3,24 @@
 
 ## 最新一集：
 
+七月份：  
+
+* [React 项目从JavaScript 到 TypeScript 的无痛迁移](https://juejin.im/post/5d26de056fb9a07ef6400809)  
+* [React 新特性 Hooks 讲解及实例(四)](https://segmentfault.com/a/1190000019423616)  
+* [React Hooks使用实例（一）](https://segmentfault.com/a/1190000019742650)  
+* [React Hooks使用实例（二）](https://segmentfault.com/a/1190000019752194)  
+* [如何连接 React 和 Node，Express](https://segmentfault.com/a/1190000019759418)  
+* [如何从零开源一个React组件](https://segmentfault.com/a/1190000019760106)  
+* [使用 Electron5.0 构建你的 React 项目](http://jartto.wang/2019/07/13/use-electron-5/)  
+* [React Native 自定义下拉刷新组件](https://zhuanlan.zhihu.com/p/73537232)  
+* [React 学习（三）：不可不知的 JSX](https://mp.weixin.qq.com/s/sil4G06wE2SNtmcQ6-YcxA)  
+* [集成React Redux Webpack](https://juejin.im/post/5d2d7017e51d4510a5033667)  
+* [React 328道最全面试题(持续更新)](https://segmentfault.com/a/1190000019810571)  
+* [React Vue 解决火狐下禁用输入框无法复制](https://juejin.im/post/5d2dc9b0f265da1ba328f8e9)  
+* [react脚手架项目，根据 localstorage 判断用户是否登录](https://segmentfault.com/a/1190000019816000)  
+* [React 题目集合](https://github.com/pwstrick/daily/blob/master/interview/react.md)  
+* [React 组件开发实践](https://segmentfault.com/a/1190000019821269)  
+
 * [React Native 版本九宫格转盘](https://zhuanlan.zhihu.com/p/67175830)  
 * [可能是你需要的 React + TypeScript 50 条规范和经验](http://t.cn/AiKiOFnN)  
 * [React 中的用户认证（登录态管理）](https://zhuanlan.zhihu.com/p/67055572)  
