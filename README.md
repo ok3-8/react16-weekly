@@ -1,5 +1,16 @@
-# react16-weekly
 
+![](https://github.com/ok3-8/react16-weekly/raw/master/images/logo-react.png)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/language-React.js-green.svg">
+  <img src="https://img.shields.io/badge/version-16+-orange.svg">
+  <img src="https://img.shields.io/badge/license-MIT-ccc.svg">
+  <img src="https://img.shields.io/badge/so--far-so--good-ff69b4.svg">
+</p>
+
+# React Weekly
+
+Weekly newsletter of the best React news, articles, projects.
 
 ## 最新一集：
 
