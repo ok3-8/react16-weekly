@@ -14,6 +14,47 @@ Weekly newsletter of the best React news, articles, projects.
 
 ## 最新一集：
 
+:u6e80: 九月份：
+
+* [React Native 中使用Mobx实践](https://juejin.im/post/5d68f14c6fb9a06b065c89b6)  
+* [让React组件如文档般展示的6大工具](https://segmentfault.com/a/1190000020249771)  
+* [带着问题看React-Redux源码](https://segmentfault.com/a/1190000020248783)  
+* [react+webpack4搭建前端项目（二）react全家桶的使用](https://juejin.im/post/5d6cfb566fb9a06ac82460bb)  
+* [React 学习（七）：React 中的事件处理](https://mp.weixin.qq.com/s/yGxvMPr-wc934Q6l0XA44Q)  
+* [新手学习 react 迷惑的点(一)](https://segmentfault.com/a/1190000020268043)  
+* [新手学习 react 迷惑的点(二)](https://segmentfault.com/a/1190000020280965)  
+* [React进阶 会使用Hook吗？](https://segmentfault.com/a/1190000020288052)  
+* [使用 React Context, Hooks, Immer, Golang 创建一个TodoList](https://segmentfault.com/a/1190000020302125)  
+* [React 事件机制 (不完全总结)](https://segmentfault.com/a/1190000008782645)  
+* [Reactive（二）：响应式流与制奶厂业务](https://mp.weixin.qq.com/s?__biz=MzAwNjY3MjgzOA==&mid=2477610610&idx=1&sn=61bf94709d2264f105673555f736b93d&chksm=8d502edbba27a7cd6c22df1559288d28a50c728b52e2a937ee449c85cc11ae684b353e1468f9&token=942090874&lang=zh_CN#rd)  
+* [关于React的一个V8性能瓶颈背后的故事](https://juejin.im/post/5d750478e51d453c2577b807)  
+* [开源 | GGEditor：阿里巴巴开源的基于 G6 和 React 的可视化图编辑器](https://mp.weixin.qq.com/s/UE6qg5cE_Pr0bX5sN3MExQ)  
+* [Webstorm 添加 React Native 调试菜单](https://github.com/collinxz-coder/blog/issues/3)  
+* [精读《React Hooks 最佳实践》](https://segmentfault.com/a/1190000020329053)  
+* [在 React 中使用 Shadow DOM](https://zhuanlan.zhihu.com/p/81427755)  
+* [React 高频面试题梳理，看看面试怎么答？（上）](https://mp.weixin.qq.com/s/W7CNGn-Qc8o0EQ3bIKAJBQ)  
+* [React 中的 9 种优化技术（框架篇）](https://mp.weixin.qq.com/s/R2oGuX-WT8Muwiur8vo0qw)  
+* [最新打包配置，webpack 4 配置 React 项目，同时配置DEV和PROD环境](https://juejin.im/post/5d7a7e7e518825345a05c518)  
+* [从Hybrid到React-Native: JS在移动端的南征北战史](https://zhuanlan.zhihu.com/p/82354292)  
+* [如何在 React 项目中整合 Eslint 和 Prettier](https://segmentfault.com/a/1190000020379876)  
+* [「前端发动机」深入 React hooks — 3 分钟搞定 useState](https://segmentfault.com/a/1190000020387808)  
+* [5 分钟理解 Spring Boot 响应式的核心 Reactor](https://mp.weixin.qq.com/s?__biz=MzAwNjY3MjgzOA==&mid=2477610615&idx=1&sn=2d5f2b52c503b9db3d4258b97c8d9f36&chksm=8d502edeba27a7c83acf7d7caf39a478410d6de86df829efcc51b4704ac1fbc9fa516573e77e&token=387411946&lang=zh_CN#rd)  
+* [前端经典面试题(60道前端面试题包含JS、CSS、React、网络、浏览器、程序题等)](https://segmentfault.com/a/1190000020391424)  
+* [初探React中函数组件和类组件的差异](https://www.w3cplus.com/react/class-component-vs-function-component.html)  
+* [1500行TypeScript代码在React中实现组件keep-alive](https://segmentfault.com/a/1190000020413804)  
+* [一文吃透 React SSR 服务端渲染和同构原理](https://segmentfault.com/a/1190000020417285)  
+* [【React技术栈】从零开始手写redux](https://segmentfault.com/a/1190000020427462)  
+* [react hooks 函数](https://segmentfault.com/a/1190000020430544)  
+* [看完这篇，你也能把 React Hooks 玩出花](https://mp.weixin.qq.com/s/6XsUflXwf7vkSpzr6BWjIg)  
+* [一文吃透 React 事件机制原理](https://mp.weixin.qq.com/s/8KrgoeLSuZ5-p-0cDZeb8A)  
+* [React Rouer 使用教程](https://segmentfault.com/a/1190000020471085)  
+* [React16.8+Next.js+Koa2 开发 Github 项目总结](https://juejin.im/post/5d89b771518825095f100f1e)  
+* [React数据大屏的应用实践](https://segmentfault.com/a/1190000020475113)  
+* [React 开发者指南](http://t.cn/Rew0LfG)  
+* [HooX: 基于Hook的React状态管理工具](https://segmentfault.com/a/1190000020512732)  
+* [开源 React Native 组件库 beeshell 2.0 发布](https://mp.weixin.qq.com/s/5XgNTQdBm4QxiStj8dFtHg)  
+* [React 遭遇 V8 性能崩溃的故事](https://mp.weixin.qq.com/s/3rpani4f6jwT9HTg04ZTIw)  
+
 八月份：
 
 * [从零开始，揭秘React服务端渲染核心技术](https://segmentfault.com/a/1190000019916830)  
@@ -123,4 +164,11 @@ Weekly newsletter of the best React news, articles, projects.
 * [React 学习（二）：深入浅出 JSX](https://mp.weixin.qq.com/s?__biz=MzI4OTc3NDgzNQ==&mid=2247484964&idx=1&sn=a982fe12a85311668f88588cbd77effd&chksm=ec2b4bb8db5cc2ae3642ccc90f7d6a9e66546de1c85cb70d2f6b6ed1969f2dbb615ff32f0dce&xtrack=1&scene=0&subscene=91&sessionid=1562118484&clicktime=1562118488&ascene=7&devicetype=android-28&version=270004b2&nettype=WIFI&abtest_cookie=BQABAAoACwASABMAFQAFACOXHgBWmR4AwJkeAPiZHgALmh4AAAA=&lang=zh_CN&pass_ticket=PqVzfEYgXFVtYMgy6sr0b+vs0CmNFI1UAW/JTFr5HGoLOsvtv930HeO8i4yONFYC&wx_header=1)  
 * [React的移动端和PC端生态圈的使用汇总](https://segmentfault.com/a/1190000019690099)  
 
+## 卖艺不卖身
+
+博学之，审问之，慎思之，明辨之，笃行之。
+
+## License
+
+Released under the MIT License.
 
