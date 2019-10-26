@@ -14,6 +14,36 @@ Weekly newsletter of the best React news, articles, projects.
 
 ## 最新一集：
 
+十月份：
+
+* [100行JavaScript代码在React中优雅的实现简单组件keep-Alive](https://segmentfault.com/a/1190000020534511)  
+* [React Native 交互管理器InteractionManager](https://segmentfault.com/a/1190000020528207)  
+* [React项目实现全局 loading 以及错误提示](https://juejin.im/post/5d90341be51d45783a7729c5)  
+* [CMS全栈项目之Vue和React篇（下）（含源码）](https://juejin.im/post/5d8f4ee55188252cdb5e3125)  
+* [The story of a V8 performance cliff in React](https://juejin.im/post/5d940add6fb9a04e4126a87b)  
+* [React实战—为什么会出现React（0）](https://segmentfault.com/a/1190000020592355)  
+* [React中的条件渲染](https://www.w3cplus.com/react/conditional-rendering-in-react.html)  
+* [React Hooks  你真的用对了吗？](https://segmentfault.com/a/1190000020616412)  
+* [【React系列】动手实现一个react-redux](https://segmentfault.com/a/1190000020621682)  
+* [基于 React 和 Redux 的 API 集成解决方案](https://segmentfault.com/a/1190000020624710)  
+* [React中列表渲染](https://www.w3cplus.com/react/rendering-a-list-with-react.html)  
+* [从零搭建一个属于自己的react框架](https://juejin.im/post/5d9c4cc1f265da5ba95c2c23)  
+* [react+webpack4搭建前端项目（三）打包优化](https://juejin.im/post/5da03ceef265da5b86012fa0)  
+* [React Native 和 Jenkins 不得不说的二三事](https://mp.weixin.qq.com/s/p16DbbqukF-N7Oe06YJghQ)  
+* [React Native 实现城市选择组件](https://github.com/collinxz-coder/blog/issues/6)  
+* [移动端ReactNative性能探究](https://juejin.im/post/5da43e906fb9a04e031bfc91)  
+* [如何用 Hooks 来实现 React Class Component 写法？](https://segmentfault.com/a/1190000020692383)  
+* [从零配置webpack 4+react脚手架（四）](https://juejin.im/post/5da5769751882568691faec0)  
+* [从零配置webpack 4+react脚手架（二）](https://juejin.im/post/5da575ca6fb9a04df85a1c76)  
+* [React VS Vue：2020年选哪个更好？](https://segmentfault.com/a/1190000020722329)  
+* [前端面试题全面整理-带解析 涵盖（css、js、浏览器、vue、react、移动web、前端性能、算法、node）](https://segmentfault.com/a/1190000020738115)  
+* [React VS Vue：2020 年应该选哪个？](https://mp.weixin.qq.com/s/ynIZyDl9jWEgBwwJrC0tKQ)  
+* [前端框架用vue还是react？小孩子才做选择题](https://juejin.im/post/5dad09be518825393e52d1bd)  
+* [[小组分享] React 当中性能优化手段整理](https://segmentfault.com/a/1190000020769066)  
+* [React Native 使用 react-native-webview 渲染 HTML](https://github.com/collinxz-coder/blog/issues/8)  
+* [React 初学者需要知道的一些知识](https://segmentfault.com/a/1190000020781602)  
+* [react hook的学习手册](https://segmentfault.com/a/1190000020783781)  
+
 :u6e80: 九月份：
 
 * [React Native 中使用Mobx实践](https://juejin.im/post/5d68f14c6fb9a06b065c89b6)  
